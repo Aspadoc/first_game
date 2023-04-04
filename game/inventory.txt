@@ -1,0 +1,3 @@
+torch: 1
+gold coin: 10
+arrow: 20
