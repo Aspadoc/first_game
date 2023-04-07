@@ -1,0 +1,4 @@
+Description___
+You can see the outside through the opening.
+pickUp___
+False

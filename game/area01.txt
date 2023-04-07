@@ -1,8 +1,8 @@
-tree
-stone
-cave
-___
+Objects___
+tree,stone,cave___
+Description___
 You are standing in a serene glade, surrounded by trees.
 Stones litter the ground around you, and you spot a cave
-in the mountains.
----
+in the mountains.___
+Connections___
+cave,area02

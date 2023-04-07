@@ -1,0 +1,7 @@
+Description___
+A softly glowing mushroom. It has a
+nice aroma.___
+pickUp___
+True___
+loot___
+strange mushroom

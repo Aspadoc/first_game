@@ -1,7 +1,6 @@
 Description___
-A sharp rock.
-Might be useful.___
+It's soft and squishy.___
 pickUp___
 True___
 loot___
-stone
+moss

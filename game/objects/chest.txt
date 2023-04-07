@@ -1,0 +1,7 @@
+Description___
+A weathered wooden chest.
+It appears to be unlocked.___
+pickUp___
+True___
+loot___
+gold coin

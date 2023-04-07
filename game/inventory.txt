@@ -1,3 +1,6 @@
 torch: 1
-gold coin: 10
+gold coin: 13
 arrow: 20
+stone: 2
+branch: 4
+strange mushroom: 1

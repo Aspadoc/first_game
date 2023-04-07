@@ -1,0 +1,13 @@
+Objects___
+cave exit,tunnel,moss,stone,medical mushroom___
+Description___
+You are standing in a dank cave.
+Clumps of moss cover the stones, and faintly
+glowing mushrooms grow in the corner of the cave.
+A tunnel leading deeper into the caves stretches
+out on one end, and light shines in from the
+cave exit on the other end.___
+
+Connections___
+tunnel,area03,
+cave entrance,area01

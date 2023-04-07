@@ -1,2 +1,4 @@
-A spooky cave.
-___
+Description___
+A spooky cave.___
+pickUp___
+False

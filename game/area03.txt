@@ -1,0 +1,8 @@
+Objects___
+tunnel,chest___
+Description___
+A small cave lies before you containing a single chest.
+The tunnel leading back is behind you.___
+
+Connections___
+tunnel,area02

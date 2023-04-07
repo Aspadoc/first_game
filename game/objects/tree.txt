@@ -1,4 +1,7 @@
+Description___
 An ordinary tree.
-Can be cut for wood.
-___
-attrL;LFÆL;FL
+Can be cut for wood.___
+pickUp___
+True___
+loot___
+branch
